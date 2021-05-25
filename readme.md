@@ -23,10 +23,12 @@ https://pytorch.org/get-started/previous-versions/#v150
 
 Example 1. Train a LeNet-5 + BEAN-1 model on the full MNIST dataset
 
+    $ cd LeNet-5 + BEAN
     $ python main.py
 
 Example 1. Train a LeNet-5 + BEAN-1 model on a 10-shot learning setup (only use 10 training samples per class, i.e. total of 100 samples of out 50000) on the MNIST dataset
 
+    $ cd LeNet-5 + BEAN
     $ python main_fewshot.py --num_epochs 100 --batch_size 1 --learning_rate 0.0005 --n_shot 10 --seed 1 --BEAN 2 --alpha 100
 
 More tips to reproduce results:
