@@ -44,11 +44,11 @@ More tips to reproduce results:
 If you find this code useful in your research, please consider cite our paper:
 
 > @article{gao2021bean,
-  title={BEAN: Interpretable and Efficient Learning with Biologically-Enhanced Artificial Neuronal Assembly Regularization},
-  author={Gao, Yuyang and Ascoli, Giorgio and Zhao, Liang},
-  journal={Frontiers in Neurorobotics},
-  volume={15},
-  pages={68},
-  year={2021},
-  publisher={Frontiers}
-  }
+> title={BEAN: Interpretable and Efficient Learning with Biologically-Enhanced Artificial Neuronal Assembly Regularization},
+> author={Gao, Yuyang and Ascoli, Giorgio and Zhao, Liang},
+> journal={Frontiers in Neurorobotics},
+> volume={15},
+> pages={68},
+> year={2021},
+> publisher={Frontiers}
+> }
